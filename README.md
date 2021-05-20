@@ -2,7 +2,6 @@
 
 [![Github](https://img.shields.io/github/followers/anburocky3?label=Follow&style=social)](https://github.com/anburocky3)
 ![](https://komarev.com/ghpvc/?username=anburocky3&color=green)
-
 [![Linkedin](https://img.shields.io/badge/-Anbuselvan%20Rocky-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anburocky3/)](https://www.linkedin.com/in/anburocky3/)
 [![Mail](https://img.shields.io/badge/-anbuceo@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:anbuceo@gmail.com)
 
