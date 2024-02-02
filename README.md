@@ -6,9 +6,7 @@ I'm open-source development enthusiast.
 [![Github](https://img.shields.io/github/followers/anburocky3?label=Follow&style=social)](https://github.com/anburocky3)
 ![](https://komarev.com/ghpvc/?username=anburocky3&color=green)
 [![Linkedin](https://img.shields.io/badge/-Anbuselvan%20Rocky-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anburocky3/)](https://www.linkedin.com/in/anburocky3/)
-<a href="https://instagram.com/anbuselvanrocky" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-</a>
+<a href="https://instagram.com/anbuselvanrocky" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
 [![Support Server](https://img.shields.io/discord/742347296091537448.svg?label=Discord&logo=Discord&colorB=7289da)](https://bit.ly/cyberdudeDiscord)
 [![Cyberdude youtube](https://img.shields.io/youtube/channel/subscribers/UCteUj8bL1ppZcS70UCWrVfw?style=social)](https://bit.ly/cyberdudeYT)
 
