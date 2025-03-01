@@ -1,6 +1,6 @@
 # Hey, I'm Anbuselvan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-I'm a software development engineer. I like to work with Laravel, NodeJS and Python. I love Linux Kernel based OSs such as Ubuntu and CentOS.
+I'm a software development engineer. I like to work with Laravel, NodeJS and Python. I love Linux Kernel based OSs such as Ubuntu, ArchLinux and CentOS.
 I'm open-source development enthusiast.
 
 [![Github](https://img.shields.io/github/followers/anburocky3?label=Follow&style=social)](https://github.com/anburocky3)
