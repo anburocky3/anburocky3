@@ -12,7 +12,7 @@ I'm open-source development enthusiast.
 
 <h2>⚡️ A Few Quick Facts</h2>
 
-🔭 I’m <b>Founder/CEO</b> of <a href="https://cyberdudenetworks.com" target="_blank"><b>@cyberdude</b></a>.<br>🧐 Learning about life, tech & ~~love~~.<br>👨‍💻 Most of my projects are available on GitHub.<br>📝 I regularly write articles on my blog.<br>💬 Ping me about anything that makes people feel `WoW`.<br>📙 Check out my resume by works! I don't have pdf!<br>🎉 <b>Fun Fact:</b> `👉 பிடித்ததும் ஒரு நாள் பிடிக்காமலும் போகலாம்!`<br>🔗 <b>My Portfolio:</b> [https://anbuselvan-annamalai.com](https://anbuselvan-annamalai.com) 😉
+🔭 I’m <b>Founder/CEO, Principal Scientist</b> of <a href="https://cyberdudenetworks.com" target="_blank"><b>@cyberdude</b></a>.<br>🧐 Learning about life, tech & ~~love~~.<br>👨‍💻 Most of my projects are available on GitHub.<br>📝 I regularly write articles on my blog.<br>💬 Ping me about anything that makes people feel `WoW`.<br>📙 Check out my resume by works! I don't have pdf!<br>🎉 <b>Fun Fact:</b> `👉 பிடித்ததும் ஒரு நாள் பிடிக்காமலும் போகலாம்!`<br>🔗 <b>My Portfolio:</b> [https://anbuselvan-annamalai.com](https://anbuselvan-annamalai.com) 😉
 
 # 💻 Tech Stack:
 
