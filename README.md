@@ -1,4 +1,5 @@
-# Hey, I'm Anbuselvan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+# Hey, I'm Anbuselvan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" /> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=009FF7&width=435&height=40&lines=CyberSecurity+Expert;Full+Stack+Engineer;AI+%26+Automation+Enthusiast;Problem+Solver;Always+Learning)](https://git.io/typing-svg)
 
 I'm a software development engineer. I like to work with Laravel, NodeJS and Python. I love Linux Kernel based OSs such as Ubuntu, ArchLinux and CentOS.
 I'm open-source development enthusiast.
@@ -60,14 +61,39 @@ I'm open-source development enthusiast.
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,cloudflare,gcp,netlify,vercel&theme=light)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=anburocky3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<div align="center">
+  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/anburocky3?cardType=level&theme=dark&fontFamily=Montserrat&preferLogin=false"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anburocky3&layout=compact&langs_count=8&theme=tokyonight"/> -->
+</div>
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=anburocky3&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anburocky3&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ### ✍️ Programmer says:
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programmer advise" />
+</div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anburocky3&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F8D847&area=true&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+⭐ **"Code is like humor. When you have to explain it, it's bad."** ⭐
+</div>
+
+---
+
+![GitHub Snake Light](https://raw.githubusercontent.com/anburocky3/anburocky3/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/anburocky3/anburocky3/output/github-snake-dark.svg#gh-dark-mode-only)
+
+<div align="center">
+**Thanks for visiting! Let's build something amazing together! 🚀**
+</div>
